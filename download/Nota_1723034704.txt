@@ -1,0 +1,22 @@
+@l!x0
+Toko      : RESTO                       
+Alamat    : Bogor                       
+No. Telp  : 0818-1871-0895              
+
+No. Order : 7
+Tanggal   : 29-04-2019
+Kasir     : 
+========================================
+Menu                 Harga Qty  Subtotal
+========================================
+TEH MANIS            5,000   1     5,000
+KOPI DINGIN         10,000   1    10,000
+NASI GORENG         15,000   1    15,000
+
+                   Sub Total :    30,000
+                      Diskon :         0
+                       TOTAL :    30,000
+----------------------------------------
+Terima Kasih atas kunjungan Anda
+
+

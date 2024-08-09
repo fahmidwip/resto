@@ -1,0 +1,22 @@
+@l!x0
+Toko      : RESTO                       
+Alamat    : Bogor                       
+No. Telp  : 0818-1871-0895              
+
+No. Order : 13
+Tanggal   : 07-08-2024
+Kasir     : kasir
+========================================
+Menu                 Harga Qty  Subtotal
+========================================
+KOPI PANAS           6,000   1     6,000
+KOPI DINGIN          8,000   1     8,000
+NASI GORENG         15,000   1    15,000
+
+                   Sub Total :    29,000
+                      Diskon :         0
+                       TOTAL :    29,000
+----------------------------------------
+Terima Kasih atas kunjungan Anda
+
+
